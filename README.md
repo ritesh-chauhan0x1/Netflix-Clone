@@ -1,3 +1,4 @@
+Edited on 2025-08-18 by automation.
 # 🎬 Netflix Clone - Full Stack Streaming Platform
 
 A feature-rich Netflix clone built with React.js frontend and Python Flask backend, offering a complete streaming platform experience with movie browsing, user authentication, personalized recommendations, and real-time features.
